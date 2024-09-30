@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <!-- <h1 align="center">Hi 👋, I'm Althaf Muhammad</h1> -->
 <!-- <h3 align="center">A passionate Data Scientist & ML Engineer</h3> -->
 
-<h1 align="center">Hi, I am a passionate Data Scientist & ML Engineer from India! 👋</h1>
+<h1 align="center">Hi, I am a passionate Data Scientist & ML Engineer! 👋</h1>
 
 - 🔭 I’m currently working on [loan-sanction-prediction](https://github.com/althaf-07/loan-sanction-prediction)
 - 🌱 I’m currently learning **Machine Learning Algorithms & advanced data preprocessing and feature engineering techniques**
