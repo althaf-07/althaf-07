@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [loan-sanction-prediction](https://github.com/althaf-07/loan-sanction-prediction)
 - 🌱 I’m currently learning **Machine Learning Algorithms & advanced data preprocessing and feature engineering techniques**
-- 📫 How to reach me: **[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=programmer.9900@gmail.com) or [LinkedIn](https://www.linkedin.com/in/althafmd07/)**
+- 📫 How to reach me: **[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zoory9900@gmail.com) or [LinkedIn](https://www.linkedin.com/in/althafmd07/)**
 - ⚡ Fun fact: **I like Technology 🖥️ & Mathematics 🔢**
 
 <h3 align="left">Connect with me:</h3>
