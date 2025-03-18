@@ -1,8 +1,4 @@
-## Hi there 👋
-
 <!--
-**althaf-07/althaf-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +10,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center"> Machine Learning Enthusiast </h2>
+
+- 🔭 I’m currently working on [loan-sanction-prediction](https://github.com/althaf-07/loan-sanction-prediction) and [flash](https://github.com/althaf-07/flash-lib) library
+- 🌱 I’m currently learning **Machine Learning Algorithms & advanced data preprocessing and feature engineering techniques**
+- 📫 How to reach me: **[Email](mailto:zoory9900@gmail.com)**
+- ⚡ Fun fact: **I like Technology 🖥️ & Mathematics 🔢**
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=althaf-07&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=3600" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=althaf-07&layout=compact&hide_border=true&title_color=142d70" width="350"/>
+</p>
