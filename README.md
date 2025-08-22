@@ -8,8 +8,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [house-price-pred-ml](https://github.com/althaf-07/house-price-pred-ml) project
 - 🌱 I’m currently learning **MLOps and ML in Production**
+- 💼 I'm currently unemployed. Reach me if you can provide me a job or internship :).
 - 📫 How to reach me: **[Email](mailto:zoory9900@gmail.com)**
 - ⚡ Fun fact: **I like Technology 🖥️ & Mathematics 🔢**
+
+---
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=althaf-07&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=3600" width="450" />
