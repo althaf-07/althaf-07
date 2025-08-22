@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> I teach dumb machines how to learn </h2>
-
 - 🔭 I’m currently working on [house-price-pred-ml](https://github.com/althaf-07/house-price-pred-ml) project
 - 🌱 I’m currently learning **MLOps and ML in Production**
 - 📫 How to reach me: **[Email](mailto:zoory9900@gmail.com)**
