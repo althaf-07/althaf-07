@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on the **P vs NP problem**
-- 🌱 I’m currently learning **Computational Complexity and Number Theory**
+- 🌱 I’m currently learning **Computational Complexity Theory and Number Theory**
 - 📫 How to reach me: **[Email](mailto:zoory9900@gmail.com)**
-- ⚡ Fun fact: **I like Mathematics 🔢 & Technology 🖥️**
+- ⚡ Fun fact: **I like Mathematics and Technology**
